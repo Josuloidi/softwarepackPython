@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: softwarepack
+Version: 0.0.1
+Summary: Este paquete incluye funciones que debía implementar para la asignatura Software Estadístico y Matemático
+Home-page: Indicar una URL para el paquete...
+Author: Josu Loidi
+Author-email: josu.loidi@ikasle.ehu.eus
+License: LICENSE.txt
+License-File: LICENSE.txt
+
+Quick Start Guide
+-----------------
+
+Este paquete contiene las funciones que debia implementar para la asignatura Software EstadÃ­stico y MatemÃ¡tico
